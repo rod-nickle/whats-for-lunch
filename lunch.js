@@ -25,7 +25,6 @@ const whatToDoForLunch = function(hungry, availableTime) {
     } else {
       msg = "This is an intense program after all and I should probably reconsider.";
     }
-
   } else {
     msg = "Get back to work.";
   }
